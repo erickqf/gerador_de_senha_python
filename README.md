@@ -25,6 +25,6 @@ O código criado gera senhas aleatorias e não é previsivel, gerando segurança
 ![image](https://github.com/erickqf/gerador_de_senha_python/assets/148627777/f0a9bd89-ef79-4243-8881-1fca1455c929)
 
 ## Senha gerada,logo após do enter:
-![image](https://github.com/erickqf/gerador_de_senha_python/assets/148627777/82ab4bf0-2085-4b30-86b0-df302dc773de)
+![image](https://github.com/erickqf/gerador_de_senha_python/assets/148627777/82ab4bf0-2085-4b30-86b0-df302dc773de) <br>
 Obs: O script executado no seu computador irá ser gerada senhas diferente desta mostrada na imagem que só é ilustrativa
 
